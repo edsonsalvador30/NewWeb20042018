@@ -22,7 +22,7 @@ import cronapi.rest.security.CronappSecurity;
 public class Role implements Serializable {
 
   /**
-   * UID da classe, necessário na serialização
+   * UID da classe, necessário na serialização Edson
    * @generated
    */
   private static final long serialVersionUID = 1L;
